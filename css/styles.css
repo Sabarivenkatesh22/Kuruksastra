@@ -3,14 +3,7 @@ body {
   font-family: "Montserrat";
   text-align: center;
 }
-@viewport{
-  zoom:1.0;
-  width: extend-t0-zoom;
-}
-@-ms-viewport{
-  width:extend-to-zoom;
-  zoom:1.0;
-}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-Bold";
 }
